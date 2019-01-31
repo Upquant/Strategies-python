@@ -1,0 +1,15 @@
+{
+    "host" : "120.55.22.60",
+    "port" : 80,
+    "user" : "20776370",
+    "token" : "81bd2b1f3390a600ff32bbdecec029b2",
+    "strategies" : [
+      {
+         "strategy" : "dualTrust.py",
+         "name" : "example"
+      }
+    ],
+    "console" : 0,
+    "loglevel" : "ERROR",
+    "instance_id" : "20190130-181017-498-001BI"
+}

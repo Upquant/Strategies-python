@@ -1,0 +1,15 @@
+{
+    "host" : "120.55.22.60",
+    "port" : 80,
+    "user" : "SDK-User",    //Web端：点击量化平台右上角用户名可查看填写，登录地址： http://quant.upchina.com/quantstmall/main
+    "token" : "SDK-Token", //Web端：点击量化平台右上角用户名可查看填写
+    "strategies" : [
+      {
+         "strategy" : "buySellSymbol.py", //策略在本地的策略名
+         "name" : "buySellSymbol" //Web端：策略在WEb端创建的策略名称，建议一致命名(注：非instance实例名）
+      }
+    ],
+    "console" : 0,
+    "loglevel" : "ERROR", // 显示日志级别，具体可查看帮助文档
+    "instance_id" : "20180530-163657-609-001BI" // Web端：回测记录中本策略的回测ID,点击复制ID,粘贴此处即可
+}

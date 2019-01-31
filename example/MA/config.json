@@ -1,0 +1,15 @@
+{
+    "host" : "120.55.22.60",
+    "port" : 80,
+    "user" : "1111111",
+    "token" : "e750bfd20cee8a203892918ce9be98b1",
+    "strategies" : [
+      {
+         "strategy" : "MA.py",
+         "name" : "test"
+      }
+    ],
+    "console" : 0,
+    "loglevel" : "ERROR",
+    "instance_id" : "20181109-094945-334-001BI"
+}
